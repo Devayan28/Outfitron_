@@ -1,0 +1,4 @@
+Starting dual-image analysis with MediaPipe...
+No face detected in selfie
+Cannot proceed without face detection
+Analysis failed. Please check your images.
